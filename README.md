@@ -1,7 +1,7 @@
 # Snapface
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
-This is a first test of creating an app with Angular.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.  
+This is a first test of creating an app with Angular.  
 The only aim of this project is to train.
 
 ## Development server
